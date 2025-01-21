@@ -2,8 +2,8 @@
 
 ### Índice del proyecto
 <p><b>Archivo de base de datos: <a href="Obesidad.csv" title="Obesidad.csv">Obesidad.csv</a></b></p>
-<p><b>Reporte en formato ipynb: <a href="Obesidad.ipynb" title="Obesidad.ipynb">Obesidad.csv</a></b></p>
-<p><b>Reporte en formato HTML: <a href="Obesidad.html" title="Obesidad.html">Obesidad.csv</a></b></p>
+<p><b>Reporte en formato ipynb: <a href="Obesidad.ipynb" title="Obesidad.ipynb">Obesidad.ipynb</a></b></p>
+<p><b>Reporte en formato HTML: <a href="Obesidad.html" title="Obesidad.html">Obesidad.html</a></b></p>
 
 ### Descripción general
 <p>Práctica en aprendizaje estadístico-automático.</p>
